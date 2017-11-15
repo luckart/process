@@ -40,4 +40,4 @@ class MyProcess
     }
 }
 
-MyProcess::cmdAsync('a', "php echo.php | php read.php");
+//MyProcess::cmdAsync('a', "php echo.php | php read.php");
